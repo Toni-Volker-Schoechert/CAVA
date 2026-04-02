@@ -62,7 +62,7 @@ heart_valve_opening_analyzer/
 ### 1. Repository klonen
 
 ```bash
-git clone <DEIN-REPO-URL>
+git clone https://github.com/Toni-Volker-Schoechert/CAVA.git
 cd CAVA
 ```
 
