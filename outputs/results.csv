@@ -1,0 +1,2 @@
+frame,time_sec,area_px2,area_ratio_roi,contour_found,luminance_mode,background_normalization_enabled,filter_mode,method,canny_threshold_1,canny_threshold_2,num_all_regions,num_valid_regions,min_contour_area_px2_effective,selected_mode
+0,0.0,0.0,0.0,False,lab_l,False,bilateral,canny_simple,8,29,28,0,234.186,none
